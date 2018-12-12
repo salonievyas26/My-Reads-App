@@ -1,5 +1,5 @@
 # MyReads Project
-##Udacity React My Reads APP
+# Udacity React My Reads APP
 
 This is an app curated for the book lovers, track your reading  and win your claim on being the biggest Nerds/bibilotaphs to ever exist. <wink wink>
 
