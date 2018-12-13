@@ -1,6 +1,8 @@
 # MyReads Project
 # Udacity React My Reads APP
 
+See the site in action https://salonievyas26.github.io/My-Reads-App/
+
 This is an app curated for the book lovers, track your reading  and win your claim on being the biggest Nerds/bibilotaphs to ever exist. <wink wink>
 
 # Instructions
